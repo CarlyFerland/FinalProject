@@ -37,4 +37,4 @@ This is firebase based toDos application using firebase database and react. Here
 
 ![imageScreenshot](./preview.png)
 
-> Thanks for reach out me on Github.
+> Thanks 
