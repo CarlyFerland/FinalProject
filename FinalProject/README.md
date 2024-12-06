@@ -26,7 +26,7 @@ This is firebase based toDos application using firebase database and react. Here
 - also can't set todos without verified your email
 - also has user authenticate system using email password and more.
 - Also can login with Google, Github, Facebook account
-- You must click and not hit enter for the sign in button.
+- !!!IMPORTANT!! You must click and not hit enter for the sign in button. !!IMPORTANT!!!
 
 ## Live Link - [Click Here](https://react-todos-app-abf31.web.app/login)
 
