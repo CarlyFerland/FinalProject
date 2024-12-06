@@ -4,6 +4,8 @@
 
 This is firebase based toDos application using firebase database and react. Here you can set your todos delete, and edits as well.
 
+- !!!IMPORTANT!! You must click and not hit enter for the sign in button. !!IMPORTANT!!!
+
 ## Using Technologies
 
 ---
